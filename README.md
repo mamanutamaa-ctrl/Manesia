@@ -1,2 +1,0 @@
-# Manesia
-bot
